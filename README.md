@@ -3,7 +3,6 @@
 This project uses machine learning to predict survival on the Titanic dataset. It includes data preprocessing, model training, and evaluation using various algorithms.
 
 ## Project Structure
-
 - `prediction.ipynb`: Main Jupyter notebook for data analysis and modeling.
 - `train.csv`, `test.csv`, `gender_submission.csv`: Titanic dataset files.
 - `README.md`: Project overview and instructions.
